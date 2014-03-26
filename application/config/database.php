@@ -52,9 +52,9 @@ $active_record = TRUE;
 //mysql -h bungle08.cs.toronto.edu -u g2javeda -p
 
 $db['default']['hostname'] = '127.0.0.1:3306';
-$db['default']['username'] = 'g2javeda';
-$db['default']['password'] = '31731445';
-$db['default']['database'] = 'g2javeda';  
+$db['default']['username'] = 'g2arvin';
+$db['default']['password'] = '20300759';
+$db['default']['database'] = 'g2arvin';  
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
